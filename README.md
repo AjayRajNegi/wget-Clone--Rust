@@ -1,4 +1,3 @@
-````markdown
 # Rget
 
 **Rget** is a simple `wget`-like command-line tool written in Rust.  
@@ -19,7 +18,6 @@ It downloads files from the internet and shows a progress bar (unless you disabl
    ```bash
    cargo build --release
    ```
-````
 
 The compiled binary will be in `target/release/rget`.
 
